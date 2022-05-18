@@ -1,0 +1,14 @@
+.custom-container{
+    background:gray;
+    height:100vh;
+}
+
+.custom-num{
+    display:flex;
+    justify-content:center;
+    padding:0;
+    margin:0;
+}
+
+
+ 
